@@ -27,8 +27,7 @@ A full-featured role-based CRUD (Create, Read, Update, Delete) web application b
 ### 🚀 Steps to Run Locally
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/crud-app.git
+   git clone https://github.com/Israruddin293/crud-app.git
    cd crud-app
 Start Local Server
 
@@ -45,10 +44,6 @@ Create a database named crud_app.
 Import or allow the app to auto-create the users table on first run.
 
 Run in Browser
-
-arduino
-Copy
-Edit
 http://localhost/crud-app/index.php
 🧠 Usage
 👤 Sign Up / Login
@@ -77,25 +72,6 @@ User input is sanitized to prevent SQL injection.
 
 Role checks are performed before allowing any critical operation.
 
-📸 Screenshots
-You can add images here using the following markdown:
-
-markdown
-Copy
-Edit
 ![Dashboard](screenshots/dashboard.png)
 ![Signup Page](screenshots/signup.png)
-✅ Future Improvements
-Add pagination and search filters.
-
-Improve styling with Bootstrap or Tailwind CSS.
-
-Add client-side validation.
-
-Migrate to a frontend framework (React/Vue).
-
-Add email verification and password reset.
-
-🤝 Contributing
-Pull requests are welcome! If you'd like to contribute or suggest improvements, feel free to fork the repo and open a PR.
 
