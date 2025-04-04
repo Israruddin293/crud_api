@@ -28,7 +28,9 @@ A full-featured role-based CRUD (Create, Read, Update, Delete) web application b
 
 1. **Clone the Repository**
    git clone https://github.com/Israruddin293/crud-app.git
+   
    cd crud-app
+   
 Start Local Server
 
 Start Apache and MySQL using XAMPP or any local server.
@@ -72,6 +74,4 @@ User input is sanitized to prevent SQL injection.
 
 Role checks are performed before allowing any critical operation.
 
-![Dashboard](screenshots/dashboard.png)
-![Signup Page](screenshots/signup.png)
 
