@@ -16,16 +16,6 @@ A full-featured role-based CRUD (Create, Read, Update, Delete) web application b
 
 ---
 
-## 🏗️ Project Structure
-
-/project-root │ ├── .htaccess # Enables clean URLs ├── db.php # Main database connection ├── index.php # Home (dashboard) page ├── login.php # User login page ├── signup.php # User registration page ├── styles.css # Custom styling └── /api ├── db.php # API DB connection ├── user.php # Single user operations (GET, PUT, DELETE) └── users.php # Collection operations (GET all, POST)
-
-yaml
-Copy
-Edit
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 📦 Requirements
